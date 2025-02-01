@@ -1,0 +1,19 @@
+Dog.py
+
+Dog attribute:
+    teeth
+    eyes
+    4 legs
+    tail
+    fluffy
+Dog verbs:
+    bark()
+    jump()
+    walk()
+    bite()
+    run()
+    rideAStateboard()
+    swim()
+    surf()
+    fetch()
+    shootHoops()
